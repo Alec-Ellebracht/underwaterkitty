@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79c44db8982840b3b33beb573558979, type: 3}
+  m_Name: Small_easy3
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 2059792869927078520, guid: 9f92475ab4e444491817857ff8be9e6a,
+    type: 3}
+  pathPrefab: {fileID: 3710366349135465156, guid: e7ac108cca899490b9a9354a58325957,
+    type: 3}
+  spawnSpeed: 0.25
+  spawnRandomizer: 0.3
+  numEnemies: 20
+  moveSpeed: 5
